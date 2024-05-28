@@ -6,7 +6,11 @@
 Stock Sentinel is a web application designed for financial analysis and prediction using machine learning. It provides users with tools to visualize historical stock data, analyze model predictions, and explore future price forecasts for stocks or indices.
 
 ## The Web App (Images)
+![](https://github.com/Transcendental-Programmer/Stock-Sentinal/blob/main/images/0.png)
 
+![](https://github.com/Transcendental-Programmer/Stock-Sentinal/blob/main/images/1.png)
+
+![](https://github.com/Transcendental-Programmer/Stock-Sentinal/blob/main/images/2.png)
 
 ## Features
 - **Historical Data Visualization:** View and analyze historical stock data using interactive charts.
