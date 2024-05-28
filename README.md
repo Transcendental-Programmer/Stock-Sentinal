@@ -7,9 +7,9 @@ Stock Sentinel is a web application designed for financial analysis and predicti
 
 ## The Web App (Images)
 ![](https://github.com/Transcendental-Programmer/Stock-Sentinal/blob/main/images/0.png)
-
+---
 ![](https://github.com/Transcendental-Programmer/Stock-Sentinal/blob/main/images/1.png)
-
+---
 ![](https://github.com/Transcendental-Programmer/Stock-Sentinal/blob/main/images/2.png)
 
 ## Features
